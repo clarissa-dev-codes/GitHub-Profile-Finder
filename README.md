@@ -2,9 +2,6 @@
 
 A sleek, responsive web application that fetches real-time developer profiles and statistics using the official GitHub REST API. Users can view profile biographies, core statistics, automated language usage distributions, and top-performing repositories with full dark mode integration.
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
 
 ## 🚀 Features
 
