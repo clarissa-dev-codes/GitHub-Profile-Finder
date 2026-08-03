@@ -1,19 +1,19 @@
 :root{
-    --bg-color: #f4f7f6;
+    --bg-color: #f0f3f8;
     --card-bg-color: #ffffff;
-    --text-color: #333333;
-    --border-color: #e1e4e8;
-    --accent-color: #24292e;
+    --text-color: #2b2e4a;
+    --border-color: #cbd5e1;
+    --accent-color: #7995db;
     --btn-text: #ffffff;
 }
 
 [data-theme="dark"]{
-    --bg-color: #0d1117;
-    --card-bg-color: #161b22;
-    --text-color: #c9d1d9;
-    --border-color: #30363d;
-    --accent-color: #58a6ff;
-    --btn-text: #0d1117;
+    --bg-color: #1e2030;
+    --card-bg-color: #282a40;
+    --text-color: #e2e8f0;
+    --border-color: #43486a;
+    --accent-color: #abc2f7;
+    --btn-text: #1e2030;
 }
 
 body{
